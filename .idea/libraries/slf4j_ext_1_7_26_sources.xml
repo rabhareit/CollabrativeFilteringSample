@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="slf4j-ext-1.7.26-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-1.7.26/slf4j-ext-1.7.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-1.7.26/slf4j-ext-1.7.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
